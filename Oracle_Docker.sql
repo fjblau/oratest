@@ -1,4 +1,4 @@
-select table_name 
+select *
   FROM user_tables
   where table_name is not null
   
